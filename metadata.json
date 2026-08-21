@@ -1,0 +1,6 @@
+{
+  "name": "DarkRoot Gold & Silver",
+  "description": "Live Nepal gold and silver price tracker sourced from FENEGOSIDA, with real-time updates, calculators, and price alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
